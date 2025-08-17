@@ -4,7 +4,7 @@ This project identifies top 5 Instagram micro-influencers (5k–50k followers) u
 
 ## Files
 - `micro_influencers_dataset(1).xlsx` → Cleaned dataset with influencer scores
-- `demo_video.mp4` → Short demo of the dashboard and visualization
+- `clideo_editor_dcd0b526bf2d49e1832c27cb6b816821` → Short demo of the dashboard and visualization
 
 ## Methodology
 1. Cleaned dataset
